@@ -23,7 +23,7 @@ console.log("Hello Word")
 
 # Exemplo de task: Planejamento de cursos em um mês
 
-# Metas do mês de novembro
+## Metas do mês de novembro
 
 - [ ] Curso Introdução a Criação de WebSites com HTML5 e CSS3 [6h] (13/11/2022)
 - [ ] Programação para internet com HTML5 e CSS3 [6h] (26/11/2022)
